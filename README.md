@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- author: hgbaodev -->
 # Đồ án môn lập trình web và ứng dụng
 ### Tài khoản Admin
@@ -19,3 +20,6 @@
 
 ![Alt text](./assets/img/img-github/admin-product.jpeg)
 <h4 align="center">Quản lý sản phẩm</h4>
+=======
+# webbanhang
+>>>>>>> e575fa706da8fff5b393c353215a21d30f9df088
